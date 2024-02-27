@@ -1,1 +1,1 @@
-# sqlyt
+# sql.yt
